@@ -1,2 +1,3 @@
 # hello-world
 This is a testing repository. please ignore this.
+I am Billy. I like learing code. I guess thats cool...
